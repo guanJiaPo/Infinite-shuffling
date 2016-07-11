@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0EFEA4B9993C72A400C64FC277F3198DDD238673",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0EFEA4B9993C72A400C64FC277F3198DDD238673" : 0,
+    "75E54008079EE924BB934299F70A275CFFF3E6C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "882AA3FA-6A7F-43E0-8509-7156FE0A66B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0EFEA4B9993C72A400C64FC277F3198DDD238673" : "%E7%BE%8E%E5%A5%B3%E8%BD%AE%E6%92%AD\/",
+    "75E54008079EE924BB934299F70A275CFFF3E6C2" : "%E7%BE%8E%E5%A5%B3%E8%BD%AE%E6%92%AD\/%E7%BE%8E%E5%A5%B3%E8%BD%AE%E6%92%AD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "美女轮播",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "美女轮播.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/guanJiaPo\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EFEA4B9993C72A400C64FC277F3198DDD238673"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/guanJiaPo\/Infinite-shuffling.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75E54008079EE924BB934299F70A275CFFF3E6C2"
+    }
+  ]
+}
